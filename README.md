@@ -1,3 +1,11 @@
+DIY touch screen "Smart Mirror" running on a RaspberryPi 4B. Rebuilt and optimized from the ground up for additional functionality and increased performance. Forked from [MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror).
+
+
+
+
+
+
+
 ![MagicMirror²: The open source modular smart mirror platform. ](.github/header.png)
 
 <p style="text-align: center">
